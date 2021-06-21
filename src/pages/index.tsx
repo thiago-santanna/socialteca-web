@@ -24,8 +24,7 @@ export default function Home() {
             </div>
           </div>
           <div className='hidden md:flex'>
-          <Image src='/image-side.png' alt='logo marca socialteca' height={560} width={600} loading='eager' />
-
+            <Image src='/image-side.png' alt='logo marca socialteca' height={560} width={600} loading='eager' />
           </div>
         </div>        
       </div>
