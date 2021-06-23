@@ -1,0 +1,31 @@
+.formulario {
+    background-color: #efecec;
+    padding: 40px 15px 40px 15px;
+    box-shadow: 0 3px 5px #989898;
+}
+
+.formulario__grupo {
+    margin-bottom: 15px;
+}
+
+.formulario__campo {
+    width: 100%;
+    border: 1px solid #c4c4c4;
+    border-radius: 5px;
+    padding: 10px 5px;
+}
+
+.formulario__label {
+    color: #343434;
+}
+
+.formulario__botao {
+    border: 2px solid #E02041;
+    border-radius: 300px;
+    color: #E02041;
+    background-color: #fff;
+    padding: 5px 50px;
+    display: block;
+    margin: 0 auto;
+    cursor: pointer;
+}
