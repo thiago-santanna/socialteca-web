@@ -1,11 +1,11 @@
 .formulario {
     background-color: #efecec;
-    padding: 40px 15px 40px 15px;
+    padding: 10px 10px 10px 10px;
     box-shadow: 0 3px 5px #989898;
 }
 
 .formulario__grupo {
-    margin-bottom: 15px;
+    margin-bottom: 7px;
 }
 
 .formulario__campo {

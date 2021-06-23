@@ -9,7 +9,7 @@ const Livro = () => {
     return (
         <>
             <div className='min-h-screen min-w-full flex flex-col items-center justify-center bg-gray-300 font-sans'>
-                <div className='container mx-auto p-8 items-start justify-center bg-gray-200'>
+                <div className='container p-2 mx-auto items-start justify-center bg-gray-200'>
                     <section className=" block md:mx-auto md:w-1/2">                    
                         <form className={styles.formulario} action="#">
                             <div className={styles.formulario__grupo}>
