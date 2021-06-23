@@ -18,7 +18,7 @@ export default function Home() {
                 <input className='bg-white border-2 border-gray-400 px-7 py-3 rounded-lg mb-2 outline-none' type="password" placeholder='Senha' />
                 <button className='bg-red-600 text-white text-lg font-semibold px-24 py-3 rounded-lg my-5'>Entrar</button>
               </form>
-              <Link href='/cadastros/usuario' >
+              <Link href='/cadastros/usuarios' >
                 <a className='flex gap-2 items-center'><FiLogIn size='20' color='#E02041' />Não Tenho cadastro</a>
               </Link>
             </div>
